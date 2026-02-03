@@ -5,6 +5,6 @@
 
 # 目前这里有什么？
 
--一个能导出mod列表的小玩意
+-一个能自动导出Minecraftmod列表的小玩意
 
--YarrCuteMob-SweetMagic的兼容包
+
